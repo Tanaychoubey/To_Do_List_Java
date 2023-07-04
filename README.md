@@ -1,6 +1,6 @@
-# To Do List Java JSP Servlet MySQL
+# To Do List using Advance Java, JSP, Servlet and MySQL
 
-Features List :
+# Features List :
 
 - Login
 
@@ -24,7 +24,7 @@ Features List :
 
 - Responsive layout : It is a complete responsive by using css media querys.
 
-Technology stack used :
+# Technology stack used :
 
 - Java 8+
 - JSP and Servlet
