@@ -29,6 +29,7 @@
 - Java 8+
 - JSP and Servlet
 - JDBC
+- Bootstrap
 - MySQL database
 - Eclipse IDE
 - Tomcat server 8+
